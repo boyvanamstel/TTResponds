@@ -1,3 +1,8 @@
+/**
+ * Copyright 2010, Boy van Amstel
+ * All rights reserved.
+ */
+
 var NAME = 'TTResponds';
 var CONFIGSHEET = 'TTRespondsConfig';
 var _activeApp = SpreadsheetApp.getActive();
